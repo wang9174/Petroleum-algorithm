@@ -1,0 +1,16 @@
+c:\users\wang9\documents\visual studio 2015\Projects\DAK\DAK\bin\Debug\DAK.exe.config
+C:\Users\wang9\Documents\GitHub\DAK\DAK\DAK\bin\Debug\DAK.exe.config
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\bin\Debug\DAK.exe.config
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\bin\Debug\DAK.exe
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\bin\Debug\DAK.pdb
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK.csprojResolveAssemblyReference.cache
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\MainWindow.g.cs
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\App.g.cs
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK_MarkupCompile.cache
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK_MarkupCompile.lref
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\MainWindow.baml
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK.g.resources
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK.Properties.Resources.resources
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK.csproj.GenerateResource.Cache
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK.exe
+C:\Users\wang9\Documents\GitHub\Petroleum-algorithm\DAK\DAK\obj\Debug\DAK.pdb
